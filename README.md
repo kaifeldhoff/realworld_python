@@ -1,3 +1,8 @@
+# Workflow-Test
+
+test a simple workflow
+
+# General project info
 
 Implementation of real-world application: https://github.com/gothinkster/realworld/ using Django and HTMX.
 
